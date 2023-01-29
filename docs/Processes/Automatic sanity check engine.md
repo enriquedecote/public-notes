@@ -1,5 +1,4 @@
 ```toc
-style: inline
 ```
 # Core engine
 

@@ -4,7 +4,6 @@ tags:
  - public
 ---
 ```toc
-style: inline
 ```
 
 # 1. Investigate

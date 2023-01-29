@@ -6,11 +6,11 @@ tags:
  - public
 aliases: 
 ---
-Where ==Data driven processes== meet ==Experimentation ==- ==Agile== - ==Growth hacking== and ==Lean startup==
+Where ==Data driven processes== meet ==Experimentation== - ==Agile== - ==Growth hacking== and ==Lean startup==
 
 ![[GrowthOSmap.jpeg]]
 
-The GrowthOS uses a combination of [SOTA Agile principles](https://www.scaledagileframework.com/) and [growth hacking principles](https://www.amazon.com/Hacking-Growth-Fastest-Growing-Companies-Breakout/dp/045149721X).
+The GrowthOS uses a combination of *SOTA Agile principles* and *growth hacking principles*
 
 The diagram above shows GrowthOS's core functions divided in three streams:
 1. The growth framework. Functions that directly target growth objectives
