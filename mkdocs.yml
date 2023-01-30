@@ -47,7 +47,7 @@ markdown_extensions:
 
   - toc:
       permalink: true
-      baselevel: 1
+      toc_depth: 1-3
 
 plugins:
   - search
