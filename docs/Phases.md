@@ -5,18 +5,18 @@ tags:
 ---
 # Phases
 
-# 1. Investigate
+## 1. Investigate
 
 - High level modelling
 - Agile methodology
 - SOPs
 
-# 2. Design & Validate
+## 2. Design & Validate
 
 - Experimentation framework
 - Refine business modelling
 
-# 3. Build
+## 3. Build
 The main focus is to transform the startup into a **Growth-centric agile company**. The startup break into different workstreams and all decisions contribute (hierarchically) towards team's OKRs --> global OKRs
 
 **Growth Framework**
@@ -29,7 +29,7 @@ The main focus is to transform the startup into a **Growth-centric agile company
 - [[North Star Metric]]
 - [[Objectives & Key Results]]
 
-# 4. Portfolio
+## 4. Portfolio
 **Data & AI**
 
 - [[Data management]]
@@ -40,7 +40,7 @@ The main focus is to transform the startup into a **Growth-centric agile company
 
 - Organisation analytics
 
-# 5. Scale
+## 5. Scale
 **Data & AI**
 
 - Knowledge extraction
