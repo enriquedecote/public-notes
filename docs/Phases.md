@@ -3,7 +3,9 @@ tags:
  - knowledge
  - public
 ---
-[TOC]
+!!! note
+
+    [TOC]
 
 # 1. Investigate
 - High level modelling
