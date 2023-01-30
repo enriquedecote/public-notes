@@ -1,4 +1,4 @@
-site_name: Hypergrowth
+site_name: GrowthOS
 
 theme:
     name: 'material'
@@ -49,6 +49,7 @@ plugins:
   - search
   - roamlinks 
   - mermaid2
+  - glightbox
 
 extra_javascript:
   # - javascripts/mathjax.js

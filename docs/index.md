@@ -10,9 +10,10 @@ Where ==Data driven processes== meet ==Experimentation== - ==Agile== - ==Growth 
 
 ![[GrowthOSmap.jpeg]]
 
-The GrowthOS uses a combination of *SOTA Agile principles* and *growth hacking principles*
+The GrowthOS uses a combination of *SOTA Agile principles* and *growth hacking principles*.
 
 The diagram above shows GrowthOS's core functions divided in three streams:
+
 1. The growth framework. Functions that directly target growth objectives
 2. Agile. Functions that are tight to Agile operations
 3. Data & AI. Data driven functions
