@@ -4,6 +4,8 @@ theme:
     name: 'material'
     logo: assets/hypergrowth.png
     favicon: assets/favicon.png
+    features: 
+      - navigation.path
 
 palette:
     # Light mode
