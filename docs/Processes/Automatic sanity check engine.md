@@ -1,5 +1,4 @@
-```toc
-```
+[TOC]
 # Core engine
 
 ![[automatic_sanity_check_engine.jpeg]]

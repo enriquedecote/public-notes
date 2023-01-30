@@ -3,7 +3,7 @@ tags:
  - knowledge
  - public
 ---
-
+# Idea creation <-> validation
 ![[idea_creation_validation.jpeg]]
 
 1. Find the opportunity  
