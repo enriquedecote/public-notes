@@ -7,7 +7,8 @@ tags:
 
 ![[idea_creation_validation.jpeg]]
 
-1. Find the opportunity  
+## Find the opportunity  
+
 	- scoping the opportunity 
 	- user insights
 	- data insights

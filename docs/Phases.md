@@ -3,9 +3,7 @@ tags:
  - knowledge
  - public
 ---
-!!! note "Content"
-
-    [TOC]
+# Phases
 
 # 1. Investigate
 
