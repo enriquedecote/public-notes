@@ -3,6 +3,8 @@ site_name: Hypergrowth
 theme:
     name: 'material'
     palette:
+    logo: assets/hypergrowth.png
+    favicon: assets/favicon.png
 
     # Light mode
     - media: "(prefers-color-scheme: light)"
