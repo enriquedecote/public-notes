@@ -9,9 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-        with:
-          ref: gh-pages
-          submodules: recursive
       - uses: actions/setup-python@v4
         with:
           python-version: 3.x
@@ -24,17 +21,6 @@ jobs:
       - run: pip install mkdocs-mermaid2-plugin
       - run: pip install mkdocs-glightbox
       - run: mkdocs gh-deploy --force
-      - uses: actions/upload-pages-artifact@v1
-        with:
-          path: .
-          name: github-pages
-          retention-days: 1
-      - uses: actions/upload-artifact@main
-        with:
-          name: github-pages
-          path: /home/runner/work/_temp/artifact.tar
-          retention-days: 1
-          if-no-files-found: warn
   
   deploy:
     # Add a dependency to the build job
