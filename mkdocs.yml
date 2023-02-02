@@ -10,7 +10,7 @@ theme:
     palette:
         # Light mode
         - media: "(prefers-color-scheme: light)"
-          scheme: default
+          scheme: hypergrowth
           # primary: darkblue
           # accent: indigo
           toggle:
