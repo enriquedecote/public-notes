@@ -19,14 +19,12 @@ theme:
 
         # Dark mode
         - media: "(prefers-color-scheme: dark)"
-          scheme: hypergrowth
+          scheme: slate
           # primary: pink
           # accent: blue
           toggle:
             icon: material/toggle-switch
             name: Switch to light mode
-    features:
-        - navigation.footer
 
 # Extensions
 markdown_extensions:
