@@ -1,25 +1,16 @@
-name: ci
+name: build-deploy
 on:
   push:
     branches:
-      - test
+      - main
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: actions/setup-python@v4
         with:
-          python-version: 3.x
-      - uses: actions/cache@v2
-        with:
-          key: ${{ github.ref }}
-          path: .cache
-      - run: pip install mkdocs-material
-      - run: pip install mkdocs-roamlinks-plugin
-      - run: pip install mkdocs-mermaid2-plugin
-      - run: pip install mkdocs-glightbox
-      - run: mkdocs gh-deploy --force
+          ref: gh-pages
+          submodules: recursive
       - uses: actions/upload-pages-artifact@v1
         with:
           path: .
