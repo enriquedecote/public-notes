@@ -19,7 +19,7 @@ theme:
 
         # Dark mode
         - media: "(prefers-color-scheme: dark)"
-          scheme: slate
+          scheme: hypergrowth
           # primary: pink
           # accent: blue
           toggle:
