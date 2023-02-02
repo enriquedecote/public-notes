@@ -8,9 +8,13 @@ aliases:
 It's RACI but with a Facilitator.
 
 R – Responsible – These are the people who are responsible for doing the work
+
 A – Accountable – This is the person responsible for the outcome and decision maker
+
 C – Consultant – These people contribute to a decision being made (their input may or may not be agreed to)
+
 I – Informed – These people are informed about a decision but do not get input
+
 F – Facilitator – These people help facilitate communication and information across the team.
 
 In a tech startup, it can help improve communication, accountability, and collaboration between team members, leading to more efficient and effective project delivery.
