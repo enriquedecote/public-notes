@@ -1,14 +1,11 @@
 Welcome to Hypergrowth's documentation.
 
-We have three programs that we are currently supporting:
+We are currently supporting three programs:
 
 - [[Building a growth ready data organisation]]
 - [[Finding the AI 10x opportunities]]
-- [[Growth progam]]
+- [[Growth program]]
 
 
-added dummy placeholder
-
-
-## Documentation
-[[HG-publish/GrowthOS/index]]
+## Core technologies
+[[GrowthOS/index|GrowthOS]]
