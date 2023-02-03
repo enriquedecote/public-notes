@@ -6,6 +6,7 @@ Welcome to Hypergrowth's documentation. We are currently supporting three progra
 
 [[Growth program]]
 
-> [!TIP] Each of these programs is being powered by [[Introduction|GrowthOS]], our core technology that make ventures run on hyper speed.
+!!! tip inline end 
+	Each of these programs is being powered by [[HG-publish/GrowthOS/Introduction|GrowthOS]], our core technology that make ventures run on hyper speed.
 
 

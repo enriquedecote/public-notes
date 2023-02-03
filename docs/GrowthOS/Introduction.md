@@ -3,7 +3,6 @@ tags:
  - GrowthOS
 sources: 
 ---
-# GrowthOS
 Where **Data driven processes** meet **Experimentation** - **Agile** - **Growth hacking** and **Lean startup**
 
 ![[GrowthOSmap.jpeg]]
@@ -43,5 +42,5 @@ The diagram also show how the [[Automatic sanity check engine|automatic sanity c
 - Kanban & scrum
 
 ## Phases
-The colours in the diagram represent different [[Phases|phases]] of the venture path to maturity.
+The colours in the diagram represent different [[Phases Summary|phases]] of the venture path to maturity.
 
