@@ -1,20 +1,14 @@
 ---
 tags: 
- - knowledge
  - GrowthOS
- - project
- - public
- - documentation
 sources: 
 ---
 # GrowthOS
-==The framework which aligns organisations towards startup business goals.==
-
 Where **Data driven processes** meet **Experimentation** - **Agile** - **Growth hacking** and **Lean startup**
 
 ![[GrowthOSmap.jpeg]]
 
-The GrowthOS uses a combination of *state-of-the-art Agile principles* and *growth hacking principles*.
+==GrowthOS aligns organisations towards startup business goals.== It uses a combination of *state-of-the-art Agile principles* and *growth hacking principles* to do so. 
 
 The diagram above shows GrowthOS's core functions divided in three streams:
 1. *The growth framework.* Functions that directly target growth objectives
@@ -35,7 +29,7 @@ The diagram also show how the [[Automatic sanity check engine|automatic sanity c
 - [[Growth ready data organisation]]
 - [[AI ready organisation]]
 - [[Martech stack]]
-- [[Building an MVP]]
+- Building an MVP
 
 **Growth framework**
 

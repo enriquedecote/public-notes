@@ -2,8 +2,10 @@ Welcome to Hypergrowth's documentation. We are currently supporting three progra
 
 [[Building a growth ready data organisation]]
 
-[[Finding the AI 10x opportunities]]
+[[Finding the best 10x AI opportunities]]
 
 [[Growth program]]
 
-Each of these programs is being powered by [[Introduction|GrowthOS]], our core technology that make ventures run on hyper speed.
+> [!TIP] Each of these programs is being powered by [[Introduction|GrowthOS]], our core technology that make ventures run on hyper speed.
+
+
