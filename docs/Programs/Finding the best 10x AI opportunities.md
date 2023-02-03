@@ -3,37 +3,37 @@ tags:
  - tech
  - offering
 ---
+# TL;DR
+
+- Real 10x AI/ML opportunities usually have an inverse 80/20 rule: the real returns start to appear in the last 20% of the effort.
+- It is deceptively easy to build AI proof of concepts that get stakeholders excited, it is a very different ball game to identify the real winners, quantify the efforts needed to implement and scale. 
+- 
+---
+Most (if not all) tech founders and C-suite venture executives have thought about the prospect of jumping into the AI bandwagon. The appetite is there,  however, most tech companies that have tried to implement an AI initiative and up with independent, disconnected POCs across multiple domains that have ==less than 30%== of generating any value for the company. ^[https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/tipping-the-scales-in-ai]
+
+The reason for such a terrible hit rate is not hard to understand, AI and machine learning are one of those areas where, unfortunately, the 80/20 rule does not apply. ^[The 80-20 rule, also known as the *Pareto Principle*, is a familiar saying that asserts that 80% of outcomes (or outputs) result from 20% of all causes (or inputs) for any given event.] 
+
+!!! info the last **20%** of the journey
+"Top performers recognise that most of the impact comes from the last **20%** of the journey" ~McKinsey
+
+In fact, it is the inverse that actually apply. Most out-of-the-box algorithms that you can pull from a GitHub repository can get you to over 80% of performance with minimal effort (e.g. identify cats on 80% of images that do contain cats or correctly identifying over 80% spam email as spam) but,
+
+!!! info Most industrial applications require AI to perform at a 95% to 99% accuracy.
+
+In other words, most of the real 10x returns begin when you reach that sweet spot of algorithmic accuracy demanded by your industry. 
+
+# How do we spot true opportunities
+
+??? question 1. Align with company-level priorities
+The AI agenda needs to align to what matters most to the company (expansion to new regions, organic growth or deliver a new user functionality)
+
+
+it boils down to proven frameworks and lots of experience implementing AI systems in the real world  
+
 ![[venn_opportunities.jpeg|500]]
 At the core, AI opportunities exist at the intersection of Data, Decisions and Technology.
 
-1.  **Data (the feedstock):** We need to make sure we are sourcing good data, [Module 5: Data](https://hypergrowthhq.atlassian.net/wiki/spaces/MOOD/pages/874676631) makes sure we’re on track there.
-2.  **Decisions (the target):** AI should enable better decisions.
-     - **Simple.** They are easiest to automate. Conventional rule of thumb: "anything a human can do in 1 second or less".
-    -  **Frequent.** Any decision that must be made with high frequency, even if it is low impact, is a good candidate for disrupting with AI.
-    -  **Impactful.** Here, AI doesn't have to completely take over the decision, only assist to a meaningful degree.
-    -  **Unexpected.** AI that can change the rules of the game.
-3.  **Technology (the glue):** Does the tech create new capabilities of the following kind?
-     - **New.** What can we do now that we couldn't do before? e.g. OCR, NLP, image recognition
-    -  **Upcoming.** What new capabilities are opened up by upcoming technology? processing power, data ingestion, tooling etc.
-    -  **Insufficient.** What capabilities have we written off as being insufficient based on current technology?
-    -  **Analogistic.** Analogous capability where AI has been transformational. E.g. RPG games to supply chains
-    -  **Accessible.** What capabilities are now too expensive or require too much expertise to properly utilize?
-        
 
-## The 4A's framework
-
-This framework suggests we consider the following four factors when identifying opportunities for AI:
-
-1.  **Automation.** Identify tasks and processes that can be automated using AI, such as data entry or image recognition.
-2.  **Augmentation.** Look for ways that AI can enhance human capabilities, such as through natural language processing or computer vision.
-3.  **Amplification.** Consider how AI can be used to make better decisions or improve performance, such as through predictive analytics or machine learning.
-4.  **Autonomy.** Identify areas where AI can operate independently, such as self-driving cars or drones.
-
-Note that this module is not about assessing the opportunity from a growth perspective. Instead, this is being assessed on [Module 7: Growth Value](https://hypergrowthhq.atlassian.net/wiki/spaces/MOOD/pages/874676725)
-
-# Ideation stage
-
-Please go to [![](https://developers.google.com/drive/images/drive_icon.png)https://docs.google.com/spreadsheets/d/11ovsMvgY0l5InXjCa0aUbV_KiC55z-5IYB4wH1emWcc/edit#gid=2140999171 - Connect to preview](https://docs.google.com/spreadsheets/d/11ovsMvgY0l5InXjCa0aUbV_KiC55z-5IYB4wH1emWcc/edit#gid=2140999171)
 
 # Assessing the opportunity
 
@@ -42,3 +42,8 @@ Please go to [![](https://developers.google.com/drive/images/drive_icon.png)http
 Objective: to assess the potential business and financial value of the various possible AI implementations we've identified.
 
 Can AI help meet users' needs?
+
+# What happens after spotting the best opportunities?
+Now that you've spotted the best opportunities, it is time to prototype, lear how to kill dead-ends fast and finally, ==scale== the prototypes that get though all our rigorous tests.
+
+## Scaling

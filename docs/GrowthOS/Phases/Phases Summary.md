@@ -4,7 +4,7 @@ tags:
  - GrowthOS
 ---
 
-## 1. [[HG-publish/GrowthOS/Phases/Phase 1 - Investigate/Introduction|Investigate]]
+## 1. [[Phase 1 - Investigate/Introduction|Investigate]]
 - Discover
 - Conceptualise
 - Draft the opportunity
