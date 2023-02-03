@@ -2,7 +2,6 @@
 tags: 
  - phases
  - GrowthOS
- phase: investigate
 ---
 ## What it is
 
