@@ -2,6 +2,7 @@
 ![[automatic_sanity_check_engine.jpeg]]
 
 The core engine checks for core assumptions, such as (but is not limited to):
+
 - Is the project still within budget?
 	- if not
 		- it will show how to prioritise
