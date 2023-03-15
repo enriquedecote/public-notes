@@ -1,6 +1,5 @@
 ---
 tags:
- - tech
  - offering
 ---
 ![[venn_opportunities.jpeg|500]]

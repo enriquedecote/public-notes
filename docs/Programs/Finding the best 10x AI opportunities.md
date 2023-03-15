@@ -1,3 +1,7 @@
+
+
+
+
 ---
 tags:
  - tech
@@ -8,7 +12,7 @@ tags:
 - Real 10x AI/ML opportunities usually have an inverse 80/20 rule: the real returns start to appear in the last 20% of the effort.
 - It is deceptively easy to build AI proof of concepts that get stakeholders excited, it is a very different ball game to identify the real winners, quantify the efforts needed to implement and scale. 
 ---
-Most (if not all) tech founders and C-suite venture executives have thought about the prospect of jumping into the AI bandwagon. The appetite is there,  however, most tech companies that have tried to implement an AI initiative and up with independent, disconnected POCs across multiple domains that have ==less than 30%== of generating any value for the company. [^1]  
+Most (if not all) tech founders and C-suite venture executives have thought about the prospect of jumping into the AI bandwagon. The appetite is there,  however, most tech companies that have tried to implement an AI initiative end up with isolated POCs across multiple areas. These POCs have ==less than 30% chance== of generating any value for the company. [^1]  
 [^1]: [Tipping the scales in AI: How leaders capture exponential returns, McKinsey](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/tipping-the-scales-in-ai)
 
 The reason for such a terrible hit rate is not hard to understand, AI and machine learning are one of those areas where, unfortunately, the 80/20 rule does not apply. [^2]

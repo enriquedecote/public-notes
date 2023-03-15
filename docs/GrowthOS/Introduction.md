@@ -25,7 +25,7 @@ The diagram also show how the [[Automatic sanity check engine|automatic sanity c
 
 **Tech**
 
-- [[Growth ready data organisation]]
+- [[Data enabled growth organisation]]
 - [[AI ready organisation]]
 - [[Martech stack]]
 - Building an MVP
@@ -35,6 +35,10 @@ The diagram also show how the [[Automatic sanity check engine|automatic sanity c
 - [[North Star Metric]]
 - [[Objectives & Key Results]]
 - [[RACI+F]]
+- Autonomous interdisciplinary teams
+- Rapid experimentation
+- Growth seasons
+- Product / market-fit framework 
 
 **Agile**
 
