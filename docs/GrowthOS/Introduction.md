@@ -25,7 +25,7 @@ The diagram also show how the [[Automatic sanity check engine|automatic sanity c
 
 **Tech**
 
-- [[Data enabled growth organisation]]
+- [[Growth ready data organisation]]
 - [[AI ready organisation]]
 - [[Martech stack]]
 - Building an MVP
